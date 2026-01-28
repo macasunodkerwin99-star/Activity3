@@ -10,8 +10,8 @@
     "vue": "^3.3.4"
   },
   "devDependencies": {
-    "vite": "^5.4.21",
-    "@vitejs/plugin-vue": "^4.3.3"
+    "@vitejs/plugin-vue": "^4.6.2",
+    "vite": "^5.4.21"
   },
   "engines": {
     "node": "24.x"
